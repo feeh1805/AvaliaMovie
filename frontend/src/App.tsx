@@ -1,10 +1,8 @@
-import React from 'react';
-import logo from './logo.svg';
-
+import Navbar from "./componentes/Navbar";
 
 function App() {
   return (
-    <h1>Pagina Inicial</h1>
+    <Navbar />
 
   );
 }
