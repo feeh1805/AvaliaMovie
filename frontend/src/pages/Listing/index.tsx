@@ -1,8 +1,10 @@
+import Pagination from "componentes/Pagination";
+
 function Listing () {
 
     return (
-        <h1>Pagina de Listagem</h1>
-    )
+        <Pagination />
+    );
 }
 
 export default Listing;

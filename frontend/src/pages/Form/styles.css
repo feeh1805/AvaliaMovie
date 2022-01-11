@@ -45,7 +45,7 @@
     min-height: 40px;
 }
 
-.AvaliaMovie-btn {
+.-btn {
     background-color: var(--color-primary);
     font-size: 14px;
     font-weight: 700;
